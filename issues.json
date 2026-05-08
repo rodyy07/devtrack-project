@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "title": "Login bug",
+        "description": "login broken",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 1,
+        "created_at": "2026-05-05 11:21:05.563682"
+    }
+]
