@@ -25,3 +25,6 @@ Gets all issues
 Used OOP concepts with subclasses:
 - CriticalIssue
 - LowPriorityIssue
+
+
+
